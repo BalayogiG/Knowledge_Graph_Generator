@@ -1,0 +1,6 @@
+streamlit==0.62.1
+spacy==2.3.0
+pandas==1.0.5
+matplotlib==3.2.2
+networkx==2.4
+wikipediaapi==0.5.4
