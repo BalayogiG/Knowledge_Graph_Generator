@@ -13,5 +13,5 @@ This Streamlit application will get sentence or paragraph or Wikipedia page and 
 <i> streamlit run Github_link</i><br>
 
 <b>Sample Result</b><br>
-<img src='screenshot.png'>
+<img src='KG.png'>
   
