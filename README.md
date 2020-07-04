@@ -12,6 +12,4 @@ This Streamlit application will get sentence or paragraph or Wikipedia page and 
 <b>or</b><br>
 <i> streamlit run Github_link</i><br>
 
-<b>Sample Result</b><br>
-<img src='KG.png'>
   
